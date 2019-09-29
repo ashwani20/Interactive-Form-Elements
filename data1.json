@@ -9,9 +9,7 @@
 										"Humanites" : "Advanced liberal Arts - Barcelona",
 										"Sciences" : "Santiago - Health Studies"
 									}
-		}
-	},
-	{
+		},
 		"nature" : {
 						"Mountains":{
 										"South America" : "Semester in Cusco",
@@ -21,7 +19,7 @@
 										"Caribbean" : "Marine Resource Studies",
 										"South Pacific" : "Protecting the Phoenix Islands"
 									}
-		
+
 		}
 	}
 ]
